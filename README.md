@@ -6,5 +6,5 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBarros304&layout=compact&theme=onedark&hide=html,css,cmake&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBarros304&layout=compact&theme=gotham&hide=html,css,cmake&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
